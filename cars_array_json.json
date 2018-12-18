@@ -1,0 +1,14 @@
+{
+"cars" : {
+   "car_type" : "Sedan" , 
+   "card_models" : [ 
+      { 
+         "car_name" : "Swift",
+         "power_window" : "no"
+      },
+      {
+         "car_name" : "Polo",
+         "power_window" : "yes"
+      } 
+  ]}
+}
