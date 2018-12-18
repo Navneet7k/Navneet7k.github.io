@@ -1,0 +1,6 @@
+{
+"cars" : {
+   "car_type" : "Hatchback", 
+   "card_models" : {"car_name":"Swift" , "power_window":"yes" }
+  }
+}
