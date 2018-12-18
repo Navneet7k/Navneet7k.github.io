@@ -1,7 +1,7 @@
 {
 "cars" : {
    "car_type" : "Sedan" , 
-   "card_models" : [ 
+   "car_models" : [ 
       { 
          "car_name" : "Xcent",
          "power_window" : "no"
