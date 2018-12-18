@@ -3,11 +3,11 @@
    "car_type" : "Sedan" , 
    "card_models" : [ 
       { 
-         "car_name" : "Swift",
+         "car_name" : "Xcent",
          "power_window" : "no"
       },
       {
-         "car_name" : "Polo",
+         "car_name" : "Ciaz",
          "power_window" : "yes"
       } 
   ]}
